@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /statuts/
+---
+
 ![statuts2014.pdf.jpg]({{site.baseurl}}/images/statuts2014.pdf.jpg)
 
 
