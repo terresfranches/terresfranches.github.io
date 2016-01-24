@@ -1,5 +1,7 @@
 
 ![]({{site.baseurl}}/)
+3396 mots = 9 cts (0,09) = 305,64 euros
+
 ... Aujourd’hui, ce ne sont pas seulement les semences, les océans, l’atmosphère, la force de travail, le patrimoine génétique et les idées qui sont soumis à la toxicité sociale engendrée par la propriété. La terre et le bâti, base de toute l’activité humaine, sont particulièrement soumis à cette spéculation. Élaborer de nouvelles formes sociales dans ce domaine est devenu aujourd’hui une nécessité. Le Fonds veut participer à la création de lieux où la propriété prend un autre sens pour permettre aux aspirations d’aujourd’hui de construire un avenir socialement viable. La propriété étant la seule forme légale actuelle de relation au foncier et au bâti en France, le Fonds entend utiliser cette forme pour sortir foncier et bâti du ré- gime de la rente à vocation spéculative, pour rendre inaliénable des terres et du bâti, ou encore, pour socialiser le pro- duit de la rente et le faire servir au bien commun. 
 
 
@@ -89,3 +91,4 @@ La dissolution volontaire du Fonds de dotation ne pourra intervenir que sur dé
 Article 19 - Contrôle du Fonds de dotation 
 L’autorité administrative compétente concernant le Fonds de dota- tion est le Préfet. Le Préfet s’assure de la régularité du fonctionne- ment du Fonds de dotation.A cette fin, il peut se faire communiquer tous documents et procéder à toutes investigations utiles. 
 Fait à Saint Menoux, le 22 mai 2012 corrigé le 04 octobre 2014 
+ 
