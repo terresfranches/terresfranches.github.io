@@ -1,14 +1,14 @@
 
 ![]({{site.baseurl}}/)
-3396 mots = 9 cts (0,09) = 305,64 euros
+
 
 ... Aujourd’hui, ce ne sont pas seulement les semences, les océans, l’atmosphère, la force de travail, le patrimoine génétique et les idées qui sont soumis à la toxicité sociale engendrée par la propriété. La terre et le bâti, base de toute l’activité humaine, sont particulièrement soumis à cette spéculation. Élaborer de nouvelles formes sociales dans ce domaine est devenu aujourd’hui une nécessité. Le Fonds veut participer à la création de lieux où la propriété prend un autre sens pour permettre aux aspirations d’aujourd’hui de construire un avenir socialement viable. La propriété étant la seule forme légale actuelle de relation au foncier et au bâti en France, le Fonds entend utiliser cette forme pour sortir foncier et bâti du ré- gime de la rente à vocation spéculative, pour rendre inaliénable des terres et du bâti, ou encore, pour socialiser le pro- duit de la rente et le faire servir au bien commun. 
 
 
-le laboratoire foncier 
-••• Le Fonds permet que des individus, des groupements d’usagers dans le social, le culturel, l’agricole, le pédagogique, l’économique, etc – puissent disposer de terres ou de bâtis pour leurs projets. L’acquisition des biens fonciers et immobiliers est mis en place au cas par cas avec les porteurs de projet. Le Fonds met ses compétences à disposition pour élaborer ensemble la forme juridique appropriée. 
-••• Par convention ou contrat avec le Fonds, les usagers font usage des lieux, moyennant un loyer hors marché permettant de couvrir les frais, à titre gratuit ou avec un loyer intégrant une contribution aux activités d’in- térêt général du Fonds. 
-••• Le Fonds, qui accompagne les projets, s’efforce de laisser le plus de marge de manoeuvre possible aux us- agers et n’intervient que si nécessaire. 
+#le laboratoire foncier
+- Le Fonds permet que des individus, des groupements d’usagers dans le social, le culturel, l’agricole, le pédagogique, l’économique, etc – puissent disposer de terres ou de bâtis pour leurs projets. L’acquisition des biens fonciers et immobiliers est mis en place au cas par cas avec les porteurs de projet. Le Fonds met ses compétences à disposition pour élaborer ensemble la forme juridique appropriée. 
+- Par convention ou contrat avec le Fonds, les usagers font usage des lieux, moyennant un loyer hors marché permettant de couvrir les frais, à titre gratuit ou avec un loyer intégrant une contribution aux activités d’in- térêt général du Fonds. 
+ Le Fonds, qui accompagne les projets, s’efforce de laisser le plus de marge de manoeuvre possible aux us- agers et n’intervient que si nécessaire. 
 ••• Si les activités ou projets échouent, le Fonds assure la transition des lieux vers d’autres activités et projets. 
 Soutenez des projets d’installation par vos dons et legs ! Le don et le legs permettent de contribuer à mettre en place un monde basé sur le bien commun, ou la terre et le bâti sont libérés de la propriété. 
 
@@ -90,5 +90,4 @@ Article 18 - Dissolution
 La dissolution volontaire du Fonds de dotation ne pourra intervenir que sur décision du Conseil d’administration, ce dernier statuant dans les conditions de l’article 12-3. L’actif net reçu par don ou legs est attribué, sans être vendu, à un au- tre fonds de dotation, à une association ou une fondation reconnue d’utilité publique respectant les principes initiaux du Fonds. Le re- ceveur de l’actif est choisi par le Conseil d’administration, ce dernier statuant dans les conditions de l’article 8-3. 
 Article 19 - Contrôle du Fonds de dotation 
 L’autorité administrative compétente concernant le Fonds de dota- tion est le Préfet. Le Préfet s’assure de la régularité du fonctionne- ment du Fonds de dotation.A cette fin, il peut se faire communiquer tous documents et procéder à toutes investigations utiles. 
-Fait à Saint Menoux, le 22 mai 2012 corrigé le 04 octobre 2014 
- 
+Fait à Saint Menoux, le 22 mai 2012 corrigé le 04 octobre 2014
