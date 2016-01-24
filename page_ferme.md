@@ -5,6 +5,7 @@ permalink: /ferme/
 published: true
 ---
 
+
 # Un lieu sortant de la propriété
 
 *en gras* et **en italique**
@@ -16,7 +17,7 @@ voyez ici [un lien](http://monlien.fr)
 
 aussi ![une image](http://mhotte.github.io/images/uneimage.jpg)
 
-
+![]({{site.baseurl}}//testimageencore.jpg)
 
 La ferme de La Mhotte a été achetée en décembre 1991 sous la forme de SCA, Société civile agricole. C’est un domaine d’une cinquantaine d’hectares avec de nombreux corps de bâtiment.
 Depuis deux ans, l’intention des habitants et actifs de la Ferme de La Mhotte est de sortir la Ferme de la propriété. Comme dans toute initiative sociale, la volonté d’assurer la durabilité d’un lieu, requiert de dissocier la propriété de l’usage.
