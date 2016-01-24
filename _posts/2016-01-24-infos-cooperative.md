@@ -1,8 +1,9 @@
 ---
-published: false
+published: true
 layout: default
 permalink: /coop/
 ---
+
 
 mon contenu
 
