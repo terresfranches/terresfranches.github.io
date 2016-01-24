@@ -5,9 +5,6 @@ published: true
 ---
 
 
-![testnouvo.jpg]({{site.baseurl}}/images/testnouvo.jpg)
-
-
 ![test statuts2014.pdf]({{site.baseurl}}/images/test statuts2014.pdf)
 
 
