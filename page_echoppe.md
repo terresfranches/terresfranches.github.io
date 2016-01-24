@@ -1,9 +1,10 @@
 ---
-layout: echoppe
-title: L'Échoppe
+layout: default
+title: "L'Échoppe"
 permalink: /echoppe/
 published: true
 ---
+
 
 
 ## L'échoppe
