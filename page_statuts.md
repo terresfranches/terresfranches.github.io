@@ -4,7 +4,11 @@ permalink: /statuts/
 published: true
 ---
 
+
 ![testnouvo.jpg]({{site.baseurl}}/images/testnouvo.jpg)
+
+
+![test statuts2014.pdf]({{site.baseurl}}/images/test statuts2014.pdf)
 
 
 > ... Aujourd’hui, ce ne sont pas seulement les semences, les océans, l’atmosphère, la force de travail, le patrimoine génétique et les idées qui sont soumis à la toxicité sociale engendrée par la propriété. La terre et le bâti, base de toute l’activité humaine, sont particulièrement soumis à cette spéculation. Élaborer de nouvelles formes sociales dans ce domaine est devenu aujourd’hui une nécessité. Le Fonds veut participer à la création de lieux où la propriété prend un autre sens pour permettre aux aspirations d’aujourd’hui de construire un avenir socialement viable. La propriété étant la seule forme légale actuelle de relation au foncier et au bâti en France, le Fonds entend utiliser cette forme pour sortir foncier et bâti du ré- gime de la rente à vocation spéculative, pour rendre inaliénable des terres et du bâti, ou encore, pour socialiser le pro- duit de la rente et le faire servir au bien commun. 
