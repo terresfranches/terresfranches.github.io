@@ -5,6 +5,8 @@ permalink: /ferme/
 published: true
 ---
 
+![cubeROUGE.jpg]({{site.baseurl}}/images/cubeROUGE.jpg)
+
 
 
 
