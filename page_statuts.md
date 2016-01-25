@@ -70,7 +70,8 @@ La durée du Fonds de dotation est illimitée.
 Les présents statuts ne prévoient pas de consommer la dotation. 
 
 #Article 11 - Fondateurs 
-Les fondateurs du Fonds sont : Mathieu Weulersse, né le 27/10/1967 à Marseille (13), demeurant 6 rue des Granges, 03210 Saint Menoux 
+Les fondateurs du Fonds sont : 
+Mathieu Weulersse, né le 27/10/1967 à Marseille (13), demeurant 6 rue des Granges, 03210 Saint Menoux 
 Xavier Fourt, né le 17/03/1969 à Versailles (78), demeurant à Ferme de La Mhotte, 03210 Saint Menoux 
 Damien Witrant, né le 22/03/1972 à Aubonne (95), demeurant à Ferme de La Mhotte, 03210 Saint Menoux 
 Les membres fondateurs n’ont pas de pouvoir particulier : ils ont le même statut que les autres membres du Conseil. 
