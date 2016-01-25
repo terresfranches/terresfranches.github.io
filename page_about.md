@@ -1,9 +1,10 @@
 ---
 layout: page
 title: "qui sommes-nous ?"
-permalink: /about/
+permalink: /quisommesnous/
 published: true
 ---
+
 
 
 
