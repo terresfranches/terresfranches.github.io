@@ -21,7 +21,7 @@ body {
 	background: $white;
   font: 14px $helvetica;
   color: $darkGray;
-  font-weight: bold;
+  
 }
 
 .container {
@@ -227,9 +227,10 @@ color: red;
 
   a {
     margin-left: 20px;
-    color: $darkGray;
     text-align: right;
     font-weight: 300;
+    font-size: 12px;
+    color: red;
     letter-spacing: 1px;
 
     @include mobile {
