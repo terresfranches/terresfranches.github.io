@@ -1,3 +1,118 @@
+#methode
+DONNÉES POUR MISE EN PAGE
+
+/1.4
+
+# Un habitat groupé, locatif, intergénérationnel, solidaire et écologique
+
+*en gras* et **en italique**
+
+## sous titre
+### soussous titre
+
+voyez ici [un lien](http://monlien.fr)
+
+aussi ![une image](http://mhotte.github.io/images/uneimage.jpg)
+
+![]({{site.baseurl}}//testimageencore.jpg)
+
+
+CHANGEMENT DE PAGE
+donner dans la rubrique “metadata“ le nom du fichier
+par exemple metadata >>> permalink: /ferme/
+---
+
+MODIFIER LE SITE À PARTIR DE L'INTERFACE
+Cliquer sur l'élément à modifier et faire clic droit : « inspecter »
+
+ces modifications permettent de voir directement l'effet sur la mise en page de site mais elles doivent être inscrites “en dure » dans la feuille de style de prose.io
+
+'''
+
+
+FORMAT DES IMAGES
+72 DPI
+800 PX DE LARGE
+eviter png
+
+RAJOUTER IMAGES/ avant le nom du fichier image
+
+images/cubeROUGE.jpg
+
+'''
+
+FONTS
+GOOGLE FONTS
+https://www.google.com/fonts
+
+choisir une font 
+
+cliquer sur “Quick Use“
+
+prendre le lien proposé dans  Add this code to your website:
+<link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet' 
+
+rajouter dans le “style“
+DANS LAYOUT + DEFAULT : copy the code as the first element in the <head> of your HTML document.
+
+PUIS INTÉGRER DANS LA FEUILLE DE STYLE
+
+ All you need to do is add the font name to your CSS styles. For example:
+font-family: 'Nunito', sans-serif;
+
+/**************/
+/* BASE RULES */
+/**************/
+
+IMPORTANT !! NE PAS CHANGER DANS STYLE : DONNÉES GÉNÉRALES DU SITE
+html {
+  font-size: 100%;
+}
+
+body {
+	background: $white;
+  font: 14px $helvetica;
+  color: $darkGray;
+  
+}
+
+HIÉRARCHIE
+h1 = #
+h2 = ##
+
+h3, h4, h5, h6
+
+PARAGRAPHES
+p {
+  margin: 15px 0;
+}
+
+LIENS
+a {
+  color: $blue;
+  text-decoration: none;
+	cursor: pointer;
+  &:hover, &:active {
+    color: $blue;
+  }
+}
+
+…………………………………………………………………………………………………………
+/*********************/
+/* LAYOUT / SECTIONS */
+/*********************/
+
+IMAGE EN HAUT DE SITE
+.site-avatar {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
+
+…………………………………………………………………………………………………………
+…………………………………………………………………………………………………………
+…………………………………………………………………………………………………………
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
