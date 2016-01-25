@@ -8,10 +8,11 @@ published: true
 
 
 
+
 La ferme de La Mhotte a été achetée en décembre 1991 sous la forme de SCA, Société civile agricole. C’est un domaine d’une cinquantaine d’hectares avec de nombreux corps de bâtiment.
 Le Fonds de dotation TERRES FRANCHES est aujourd'hui le principal porteur de parts dans la SCA.
  
- 
+![]({{site.baseurl}}/images/cubeROUGE.jpg) 
 # Un lieu de vie et d’activités ouvert et évolutif
  
 La Ferme de La Mhotte est un groupe d’habitants et d’actifs qui organisent ensemble leurs usages pour faire émerger un projet social évolutif à la croisée du culturel, de l’agricole et du pédagogique.
