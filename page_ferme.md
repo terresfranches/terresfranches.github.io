@@ -1,27 +1,15 @@
 ---
 layout: default
-title: Ferme
+title: un projet pour la Ferme de la Mhotte
 permalink: /ferme/
 published: true
 ---
 
 
-# Un lieu sortant de la propriété
 
-*en gras* et **en italique**
-
-## sous titre
-### soussous titre
-
-voyez ici [un lien](http://monlien.fr)
-
-aussi ![une image](http://mhotte.github.io/images/uneimage.jpg)
-
-![]({{site.baseurl}}//testimageencore.jpg)
 
 La ferme de La Mhotte a été achetée en décembre 1991 sous la forme de SCA, Société civile agricole. C’est un domaine d’une cinquantaine d’hectares avec de nombreux corps de bâtiment.
-Depuis deux ans, l’intention des habitants et actifs de la Ferme de La Mhotte est de sortir la Ferme de la propriété. Comme dans toute initiative sociale, la volonté d’assurer la durabilité d’un lieu, requiert de dissocier la propriété de l’usage.
-Une discussion est en cours avec le Fonds de dotation TERRES FRANCHES, laboratoire foncier reconnu d’intérêt général, un fonds dont l’objet est de sortir la terre et le bâti de la spéculation, qui pourrait devenir à brève échéance, le propriétaire principal.
+Le Fonds de dotation TERRES FRANCHES est aujourd'hui le principal porteur de parts dans la SCA.
  
  
 # Un lieu de vie et d’activités ouvert et évolutif
