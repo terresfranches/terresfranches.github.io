@@ -26,6 +26,5 @@ D'après la charte du réseau national, une ressourcerie participe de l'économi
 Nous nous engageons également à redistribuer une partie des éléments collectés et avons d'ores et déjà développé des partenariats avec diverses associations et structures locales.
 Nous voulons avec ce projet répondre à notre modeste échelle aux sérieux problèmes de surproduction, de surconsommation et de gaspillage, réduire nos déchets, et apprendre à consommer voire à travailler autrement. Nous voulons également créer des moyens pour sortir de l'isolement en zone rurale, tisser des liens en dehors d'un rapport marchand et dynamiser les relations sociales entre générations et milieux sociaux.
 
-La ressourcerie aujourd’hui en phase d’expérimentation a été inaugurée le 7 juin 2014.
+La ressourcerie a été inaugurée le 7 juin 2014.
 
-Elle met en oeuvre depuis septembre 2013 un projet FSE.
