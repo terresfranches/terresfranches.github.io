@@ -1,6 +1,9 @@
 ---
 published: true
+layout: default
+permalink: /gratuiterie/
 ---
+
 
 
 un festival courant octobre 2045
