@@ -1,7 +1,9 @@
 ---
 published: true
 title: ressourcerie
+permalink: /ressourcerie/
 ---
+
 
 
 
