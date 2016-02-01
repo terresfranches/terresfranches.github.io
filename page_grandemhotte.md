@@ -1,4 +1,4 @@
-#La Grande Mhotte est un projet social articulant 
+La Grande Mhotte est un projet social articulant 
 à une école, un lieu d’habitations et des lieux de travail.
 Basé sur des processus collectifs d’apprentissage et 
 de participation, ce projet travaille à une organisation sociale
