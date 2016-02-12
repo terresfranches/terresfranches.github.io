@@ -1,7 +1,7 @@
 ---
 layout: default
 title: un projet pour Colmar
-permalink: /echoppe/
+permalink: /colmar/
 published: true
 ---
 
