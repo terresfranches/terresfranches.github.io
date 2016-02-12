@@ -1,3 +1,8 @@
+---
+permalink: grandemhotte
+layout: default
+---
+
 La Grande Mhotte est un projet social articulant 
 à une école, un lieu d’habitations et des lieux de travail.
 Basé sur des processus collectifs d’apprentissage et 
@@ -21,4 +26,4 @@ Dans le même mouvement s’amorce la mise en place d’un projet social structu
 • une école Steiner Waldorf
 • un lieu d’activités artistiques et artisanales. 
 
-Une recherche de fonds est effectuée pour la mise en œuvre de ce projet. 
+Une recherche de fonds est effectuée pour la mise en œuvre de ce projet.
