@@ -1,6 +1,7 @@
 ---
-permalink: grandemhotte
+permalink: /grandemhotte/
 layout: default
+published: true
 ---
 
 La Grande Mhotte est un projet social articulant 
